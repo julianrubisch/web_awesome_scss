@@ -4,6 +4,8 @@ import "./controllers"
 
 
 import "@awesome.me/webawesome/dist/components/button/button.js";
+import "@awesome.me/webawesome/dist/components/card/card.js";
+import "@awesome.me/webawesome/dist/components/input/input.js";
 
 // web awesome imports
 import { setBasePath } from "@awesome.me/webawesome/dist/webawesome.js";
